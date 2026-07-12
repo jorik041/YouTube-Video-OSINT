@@ -28,6 +28,8 @@
     </tr>
 </table>
 <ul>
+<li><a href="https://tube.archivarix.net/">Archivarix Tube Search</a></li>
+ <p>Search engine for finding deleted, removed, and unavailable YouTube videos.</p>
 <li><a href="https://www.androidpolice.com/2021/06/05/how-to-find-specific-parts-in-a-youtube-video-without-having-to-watch-the-whole-thing/">Android Police</a></li>
  <p>How to find specific parts in a YourTube video.</p>
 <li><a href="https://www.captionpop.com/">Caption Pop</a></li>
